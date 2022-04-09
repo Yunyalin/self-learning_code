@@ -1,4 +1,4 @@
-## self-learning_stancode
+## self-learning_code
 Hello!\
 This repository holds my programmimg projects done during the period of stanCode SC101 course.
 
